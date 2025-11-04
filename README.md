@@ -1,4 +1,4 @@
-![Portfolio Banner](A_banner_showcases_Zahra_Etebari's_Data_Science_Po.png)
+![Portfolio Banner](banne.png)
 
 # 🧠 Zahra Etebari — Data Science & Machine Learning Portfolio
 
