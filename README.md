@@ -74,28 +74,6 @@ This portfolio highlights my **end-to-end projects** in Data Science, Machine Le
 
 
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <!--  Overall GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Zahra58&show_icons=true&hide_rank=true&hide=contribs&count_private=true&theme=radical&include_all_commits=true"
-    height="160" alt="GitHub Stats"/>
-
-  <!--  Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra58&layout=compact&hide=jupyter%20notebook&langs_count=6&theme=radical"
-    height="160" alt="Top Languages"/>
-
-  <!--  Contribution Streak -->
-  <img
-    src="https://streak-stats.demolab.com?user=Zahra58&theme=radical&hide_longest_streak=true"
-    height="160" alt="GitHub Streak"/>
-
-</div>
 
 ---
 
@@ -106,6 +84,15 @@ This portfolio highlights my **end-to-end projects** in Data Science, Machine Le
 </p>
 
 ---
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Zahra58&show_icons=true&hide_rank=true&hide=contribs&count_private=true&theme=rose_pine&include_all_commits=true" height="160" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra58&layout=compact&hide=jupyter%20notebook&langs_count=6&theme=rose_pine" height="160" />
+
+  <img src="https://streak-stats.demolab.com?user=Zahra58&theme=rose_pine&hide_longest_streak=true" height="160" />
+
+</div>
 
 ###  Connect & Collaborate
 <p align="center">
