@@ -19,6 +19,17 @@ This portfolio highlights my **end-to-end projects** in Data Science, Machine Le
 - Saved trained models (`.pkl`) for reuse or deployment.  
 
 ---
+---
+
+### 🎯 [Computer Vision – Object Detection & Tracking](https://github.com/Zahra58/Computer-vision-Object-detection)
+**Tech stack:** YOLOv8, OpenCV, Python, IoU Tracker  
+- Built an end-to-end pipeline for object detection and tracking in MP4 videos.  
+- Implemented **YOLOv8** for object detection and a lightweight **IoU-based tracker** for multi-object tracking.  
+- Evaluated performance using **Precision, Recall, F1, AP, and mAP** against manual ground truth annotations.  
+- Generated visualizations including class frequency plots and detection overlays.  
+
+ [View Notebook](https://github.com/Zahra58/Computer-vision-Object-detection/blob/main/object_detection_clean.ipynb)
+
 
 ### 📈 [Sales Forecasting with Time Series](#)
 **Tech stack:** Python, pandas, ARIMA, Prophet, matplotlib  
