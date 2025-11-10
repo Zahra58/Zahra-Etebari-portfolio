@@ -21,7 +21,7 @@ This portfolio highlights my **end-to-end projects** in Data Science, Machine Le
 ---
 ---
 
-### 🎯 [Computer Vision – Object Detection & Tracking](https://github.com/Zahra58/Computer-vision-Object-detection)
+###  [Computer Vision – Object Detection & Tracking](https://github.com/Zahra58/Computer-vision-Object-detection)
 **Tech stack:** YOLOv8, OpenCV, Python, IoU Tracker  
 - Built an end-to-end pipeline for object detection and tracking in MP4 videos.  
 - Implemented **YOLOv8** for object detection and a lightweight **IoU-based tracker** for multi-object tracking.  
@@ -31,7 +31,7 @@ This portfolio highlights my **end-to-end projects** in Data Science, Machine Le
  [View Notebook](https://github.com/Zahra58/Computer-vision-Object-detection/blob/main/object_detection_clean.ipynb)
 
 
-### 📈 [Sales Forecasting with Time Series](#)
+###  [Sales Forecasting with Time Series](#)
 **Tech stack:** Python, pandas, ARIMA, Prophet, matplotlib  
 - Built and optimized **time series forecasting models** to predict monthly sales trends.  
 - Decomposed seasonality and improved forecast accuracy by 18%.  
@@ -47,7 +47,7 @@ This portfolio highlights my **end-to-end projects** in Data Science, Machine Le
 
 ---
 
-### 🧮 [Customer Churn Prediction](#)
+###  [Customer Churn Prediction](#)
 **Tech stack:** Python, pandas, scikit-learn, XGBoost  
 - Analyzed customer data to predict churn probability using **supervised learning**.  
 - Optimized hyperparameters with GridSearchCV for best model performance.  
@@ -66,10 +66,35 @@ This portfolio highlights my **end-to-end projects** in Data Science, Machine Le
 | **Version Control** | Git, GitHub |
 
 ---
+Live Speech Recognition & Translation (Deployed App)
 
-## 🌐 Connect With Me
+Tech Stack: JavaScript, Web Speech API, Google Translate API, PWA, Web Audio API
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zahra_Etebari-blue?logo=linkedin&style=flat)](https://linkedin.com/in/zahraetebari)
+Real-time speech-to-text with instant translation to 20+ languages.
+
+Live audio waveform visualization with smooth UI/UX.
+
+Built as a Progressive Web App (PWA) — installable on any device.
+
+100% client-side processing (privacy-first, zero backend).
+
+ Try Live Demo: Live Speech App
+
+ Source Code: Repository Link( https://live-speech-translation.netlify.app/)
+---
+ Tools & Skills
+Category	Tools / Frameworks
+Languages	Python, SQL, JavaScript
+ML Libraries	scikit-learn, pandas, NumPy, seaborn, matplotlib
+Techniques	Clustering, Classification, Regression, NLP, Computer Vision
+Data Tools	Google Colab, Jupyter, VS Code
+Version Control	Git, GitHub
+Deployment	Streamlit, Netlify, PWA
+
+---
+##  Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zahra_Etebari-blue?logo=linkedin&style=flat)]( www.linkedin.com/in/zahra-etebari )
 [![GitHub](https://img.shields.io/badge/GitHub-Zahra58-black?logo=github&style=flat)](https://github.com/Zahra58)
 
 
